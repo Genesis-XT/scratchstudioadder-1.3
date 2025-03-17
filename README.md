@@ -20,3 +20,4 @@ After you have followed all the steps, your projects should automatically be add
 ## Other Information
 Big Thanks to `TheCommCraft` for helping me use this! 
 You all may say this is a copy, but i'll update this constantly :D
+I may even make other tools with `scratchattach`. Big thanks to `TimMcCool` for making `scratchattach`.
